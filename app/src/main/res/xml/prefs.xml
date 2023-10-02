@@ -10,7 +10,7 @@
 		android:title="@string/pref_weekstart1"
 		android:summary="@string/pref_weekstart1_info"
 		android:defaultValue="false" />
-	<com.example.mooncal.AboutDialogPreference
+	<com.gm.moon.calendar.AboutDialogPreference
 		android:key="pref_legal"
 		android:title="@string/pref_legal"
 		android:dialogMessage="@string/legal_notice"

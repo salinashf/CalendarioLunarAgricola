@@ -91,43 +91,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView00"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView01"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView02"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView03"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView04"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView05"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView06"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -208,43 +208,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView10"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView11"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView12"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView13"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView14"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView15"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView16"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -324,43 +324,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView20"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView21"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView22"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView23"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView24"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView25"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView26"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -440,43 +440,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView30"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView31"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView32"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView33"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView34"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView35"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView36"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -556,43 +556,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView40"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView41"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView42"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView43"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView44"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView45"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView46"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -672,43 +672,43 @@
             android:layout_height="0dp"
             android:orientation="horizontal" >
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView50"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView51"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
 
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView52"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView53"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView54"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView55"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             
-            <com.example.mooncal.MoonDayView
+            <com.gm.moon.calendar.MoonDayView
                 android:id="@+id/moonDayView56"
                 android:layout_width="0dp"
                 android:layout_weight="1"
